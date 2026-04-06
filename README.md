@@ -16,7 +16,7 @@
   <a href="https://github.com/Maneetss">
     <img src="https://img.shields.io/badge/GitHub-Maneetss-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:maneetshah9190@gmail.com">
+  <a href="mailto:Maneetshah9190@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Maneetss&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
@@ -99,34 +99,18 @@ As a Computer Science student at **UC Irvine**, I specialize in building **machi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maneetss&custom_title=Maneet's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=A78BFA&line=A78BFA&point=A78BFA&area_color=000000&title_color=A78BFA&area=true" alt="Activity Graph" />
 </p>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maneetss&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maneetss&theme=highcontrast&hide_border=true" alt="Repos Per Language" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maneetss&theme=highcontrast&hide_border=true" alt="Most Commit Language" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maneetss&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Maneet's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maneetss&theme=2077" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maneetss&theme=2077" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maneetss&theme=highcontrast&hide_border=true" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maneetss&theme=2077" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maneetss&theme=2077&utcOffset=-7" alt="Productive Time" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maneetss&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maneetss&theme=2077" alt="Profile Details" />
 </p>
 
 ---
