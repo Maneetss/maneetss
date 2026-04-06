@@ -1,112 +1,16 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Maneet%20Shah&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=CS%20%40%20UC%20Irvine%20%7C%20Data%20%26%20ML&descSize=22&descAlignY=58&descColor=a78bfa&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header)
+
+<p align="center">
+  <img src="https://cardivo.vercel.app/api?name=Maneet%20Shah&description=CS%20%40%20UC%20Irvine%20%7C%20Data%20Analytics%20%7C%20Machine%20Learning%20%7C%20Building%20systems%20that%20turn%20raw%20data%20into%20decisions.%20Former%20intern%20%40%20SharkNinja.%20Open%20to%20SWE%20and%20data%20roles.&backgroundColor=%230d1117&colorPattern=%231a1a2e&linkedin=maneet-shah&github=Maneetss" alt="Maneet Shah's Card" />
+</p>
+
+# Hello <img src="https://raw.githubusercontent.com/MartinHeinworker/MartinHeinworker/master/wave.gif" width="30px">, I'm Maneet Shah
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+ML+pipelines+that+actually+work+%F0%9F%94%A7;Data+Analytics+%7C+Machine+Learning+%7C+Full+Stack;From+raw+data+to+real+decisions+%F0%9F%93%8A;Open+to+internships+%26+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=CS+%40+UC+Irvine+%28Class+of+2027%29;ML+Pipelines+%7C+Data+Analytics+%7C+Search+Systems;Former+Data+Analytics+Intern+%40+SharkNinja;From+raw+data+to+real+decisions+%F0%9F%93%8A" alt="Typing SVG" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maneetss&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <a href="https://github.com/Maneetss">
-    <img src="https://img.shields.io/github/followers/Maneetss?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS" alt="GitHub followers" />
-  </a>
-</p>
-
----
-
-## ⚡ About Me
-
-```
-const maneet = {
-  role        : "CS Undergrad @ UC Irvine (Class of 2027)",
-  location    : "Irvine, California 🌴",
-  focus       : ["Machine Learning", "Data Analytics", "Search Systems"],
-  currentlyOn : "ML pipelines & data-driven products 🔨",
-  experience  : ["SharkNinja (Data Analytics)", "AdvaMed", "ByPeople Technologies"],
-  openTo      : ["Internships", "Collaborations", "Research"],
-};
-```
-
----
-
-## 🛠️ Tech Stack
-
-### 🤖 AI & ML
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-
-### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄️ Data & Cloud
-
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Tools & Workflow
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maneetss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maneetss&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Maneetss&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" alt="GitHub Streak" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| 🔥 Project | 💬 Description | 🛠️ Stack |
-| --- | --- | --- |
-| [**UCI Search Engine**](https://github.com/Maneetss/Search-Engine) | Full-stack search engine over 10k+ ICS web pages in <300ms — custom inverted index, tf-idf, PageRank | Python |
-| [**IPO Prediction Model**](https://github.com/Maneetss/IPO-prediction-model) | TensorFlow classifier predicting Indian IPO listing gains using subscription data & neural nets | Python · TensorFlow · Keras |
-| [**SQL Query Analysis**](https://github.com/Maneetss/SQL-query-analysis) | SQL-driven data analysis and query optimization | Python · SQL |
-| [**Datathon**](https://github.com/Maneetss/Datathon) | Competition project — data analysis and modeling | Jupyter · Python |
----
-
-## 💼 Experience
-
-```
-📍 SharkNinja            → Data Analytics Intern (Summer 2025)
-   Built semantic models in Snowflake · Validated 18/18 NL→SQL queries at ≥90% accuracy
-
-📍 AdvaMed Association   → Intern (Summer 2024)
-   Built expenditure prediction algorithms across departments
-
-📍 ByPeople Technologies → Intern (2023)
-   Manual software testing — black box, white box, gray box
-```
-
----
-
-## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maneet-shah/">
@@ -118,10 +22,147 @@ const maneet = {
   <a href="mailto:Maneetshah9190@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Maneetss&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
 
-<br>
+---
+
+## 🚀 About Me
+
+As a Computer Science student at **UC Irvine**, I specialize in building **machine learning pipelines**, **data analytics systems**, and **search infrastructure**. At **SharkNinja**, I built semantic models in Snowflake and validated NL→SQL queries at ≥90% accuracy. I'm driven by turning messy, real-world data into systems that actually make decisions — not just dashboards that collect dust.
+
+---
+
+## 💼 Experience
+
+```
+📍 SharkNinja            → Data Analytics Intern (Summer 2025)
+   Built semantic models in Snowflake (Cortex Analyst) over DTC order-line data
+   Validated 18/18 NL→SQL queries at ≥90% accuracy, P95 ≤ 5s
+   Built Streamlit-in-Snowflake demo for stakeholders
+
+📍 AdvaMed Association   → Intern (Summer 2024)
+   Built expenditure prediction algorithms across departments
+   Analyzed and linked cross-departmental data sets
+
+📍 ByPeople Technologies → Intern (2023)
+   Black box, white box, gray box manual software testing
+   Created comprehensive test sheets for production software
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### AI & Machine Learning
+
+| | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white) |
+
+### Languages
+
+| | | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+
+### Data & Cloud
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+
+### Tools & Workflow
+
+| | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) | ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+
+---
+
+## 🏆 Featured Projects
+
+| 🔥 Project | 💬 Description | 🛠️ Stack |
+| --- | --- | --- |
+| [**UCI Search Engine**](https://github.com/Maneetss/Search-Engine) | Full-stack search engine over 10k+ ICS web pages in <300ms — custom inverted index, tf-idf ranking, PageRank/HITS, phrase queries | Python |
+| [**IPO Prediction Model**](https://github.com/Maneetss/IPO-prediction-model) | End-to-end TensorFlow classifier predicting Indian IPO listing gains — IQR winsorization, stratified splits, CI/CD with GitHub Actions | Python · TensorFlow · Keras |
+| **Credit Card Fraud Detection** | ML pipeline comparing 6 classifiers (SVM, RF, Gradient Boosting, AdaBoost, KNN, Logistic Regression) on transaction fraud data | Python · scikit-learn |
+| [**SQL Query Analysis**](https://github.com/Maneetss/SQL-query-analysis) | SQL-driven data analysis and query optimization | Python · SQL |
+| [**Datathon**](https://github.com/Maneetss/Datathon) | Competition project — data analysis and predictive modeling | Jupyter · Python |
+
+---
+
+## 📊 Git Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Maneetss&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maneetss&custom_title=Maneet's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=A78BFA&line=A78BFA&point=A78BFA&area_color=000000&title_color=A78BFA&area=true" alt="Activity Graph" />
+</p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maneetss&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maneetss&theme=highcontrast&hide_border=true" alt="Repos Per Language" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maneetss&theme=highcontrast&hide_border=true" alt="Most Commit Language" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maneetss&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Maneet's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maneetss&theme=highcontrast&hide_border=true" alt="Profile Details" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Maneetss&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+<!-- If you have a LeetCode account, uncomment and replace USERNAME below -->
+<!--
+## 📈 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/USERNAME?ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+-->
+
+## 🎓 Education
+
+```
+🏫 University of California, Irvine
+📚 Bachelor of Computer Science
+🎓 Expected Graduation: September 2027
+```
+
+---
+
+<p align="center">
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
+</p>
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/Maneetss">Maneetss</a> | Let's build something together!
+</p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer)
