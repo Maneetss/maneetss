@@ -83,9 +83,8 @@ As a Computer Science student at **UC Irvine**, I specialize in building **machi
 | --- | --- | --- |
 | [**UCI Search Engine**](https://github.com/Maneetss/Search-Engine) | Full-stack search engine over 10k+ ICS web pages in <300ms — custom inverted index, tf-idf ranking, PageRank/HITS, phrase queries | Python |
 | [**IPO Prediction Model**](https://github.com/Maneetss/IPO-prediction-model) | End-to-end TensorFlow classifier predicting Indian IPO listing gains — IQR winsorization, stratified splits, CI/CD with GitHub Actions | Python · TensorFlow · Keras |
-| **Credit Card Fraud Detection** | ML pipeline comparing 6 classifiers (SVM, RF, Gradient Boosting, AdaBoost, KNN, Logistic Regression) on transaction fraud data | Python · scikit-learn |
 | [**SQL Query Analysis**](https://github.com/Maneetss/SQL-query-analysis) | SQL-driven data analysis and query optimization | Python · SQL |
-| [**Datathon**](https://github.com/Maneetss/Datathon) | Competition project — data analysis and predictive modeling | Jupyter · Python |
+| [**Tract Record**](https://github.com/Maneetss/Datathon) | Competition project — data analysis and predictive modeling | Jupyter · Python |
 
 ---
 
