@@ -1,10 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header)
 
-<p align="center">
-  <img src="https://cardivo.vercel.app/api?name=Maneet%20Shah&description=CS%20%40%20UC%20Irvine%20%7C%20Data%20Analytics%20%7C%20Machine%20Learning%20%7C%20Building%20systems%20that%20turn%20raw%20data%20into%20decisions.%20Former%20intern%20%40%20SharkNinja.%20Open%20to%20SWE%20and%20data%20roles.&backgroundColor=%230d1117&colorPattern=%231a1a2e&linkedin=maneet-shah&github=Maneetss" alt="Maneet Shah's Card" />
-</p>
 
-# Hello <img src="https://raw.githubusercontent.com/MartinHeinworker/MartinHeinworker/master/wave.gif" width="30px">, I'm Maneet Shah
+# Hello 👋, I'm Maneet Shah
 
 <p align="center">
   <a href="https://git.io/typing-svg">
