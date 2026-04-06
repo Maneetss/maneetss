@@ -89,8 +89,6 @@ const maneet = {
 | [**IPO Prediction Model**](https://github.com/Maneetss/IPO-prediction-model) | TensorFlow classifier predicting Indian IPO listing gains using subscription data & neural nets | Python · TensorFlow · Keras |
 | [**SQL Query Analysis**](https://github.com/Maneetss/SQL-query-analysis) | SQL-driven data analysis and query optimization | Python · SQL |
 | [**Datathon**](https://github.com/Maneetss/Datathon) | Competition project — data analysis and modeling | Jupyter · Python |
-| **Credit Card Fraud Detection** | ML pipeline comparing SVM, Random Forest, Gradient Boosting & more on transaction data | Python · scikit-learn |
-
 ---
 
 ## 💼 Experience
