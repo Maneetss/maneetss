@@ -16,7 +16,7 @@
   <a href="https://github.com/Maneetss">
     <img src="https://img.shields.io/badge/GitHub-Maneetss-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:Maneetshah9190@gmail.com">
+  <a href="mailto:maneetshah9190@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Maneetss&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
