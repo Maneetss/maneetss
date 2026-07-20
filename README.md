@@ -26,8 +26,8 @@ CS senior at UC Irvine building full-stack products and data systems.
 
 ## 🚀 About Me
 
-As a Computer Science student at **UC Irvine**, I specialize in building **machine learning pipelines**, **data analytics systems**, and **search infrastructure**. At **SharkNinja**, I built semantic models in Snowflake and validated NL→SQL queries at ≥90% accuracy. I'm driven by turning messy, real-world data into systems that actually make decisions — not just dashboards that collect dust.
-Right now: building Cadence, an athlete readiness platform for coaches of small teams, live in production. I'm spending summer 2026 in India working with a sport scientist to validate the scoring model with real athletes.
+**As a Computer Science student at **UC Irvine**, I specialize in building **machine learning pipelines**, **data analytics systems**, and **search infrastructure**. At **SharkNinja**, I built semantic models in Snowflake and validated NL→SQL queries at ≥90% accuracy. I'm driven by turning messy, real-world data into systems that actually make decisions — not just dashboards that collect dust.
+Right now: building Cadence, an athlete readiness platform for coaches of small teams, live in production. I'm spending summer 2026 in India working with a sport scientist to validate the scoring model with real athletes.**
 ---
 
 ## Cadence - Founder & Engineer
