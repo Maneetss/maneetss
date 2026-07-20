@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header)
 
-
-# Hello 👋, I'm Maneet Shah
+Hi, I'm Maneet Shah
+CS senior at UC Irvine building full-stack products and data systems.
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -27,7 +27,20 @@
 ## 🚀 About Me
 
 As a Computer Science student at **UC Irvine**, I specialize in building **machine learning pipelines**, **data analytics systems**, and **search infrastructure**. At **SharkNinja**, I built semantic models in Snowflake and validated NL→SQL queries at ≥90% accuracy. I'm driven by turning messy, real-world data into systems that actually make decisions — not just dashboards that collect dust.
+Right now: building Cadence, an athlete readiness platform for coaches of small teams, live in production. I'm spending summer 2026 in India working with a sport scientist to validate the scoring model with real athletes.
+---
 
+## Cadence - Founder & Engineer
+
+Athletes check in daily, the platform blends wearable data with subjective markers, and coaches get a 0–100 Train / Modify / Recover signal per athlete.
+
+
+Stack: Next.js, TypeScript, Supabase (RLS across 25 tables), Vercel
+Scoring engine: lnRMSSD z-scores against 7-day HRV baselines (Buchheit 2013) and EWMA-ACWR load tracking (Murray et al. 2017), computed in PostgreSQL on every check-in
+Data ingestion: Apple HealthKit sync, CSV upload with fuzzy column matching, manual entry — with source priority and deduplication
+
+
+Live at cadencespo.com. The repo is private while the pilot runs — happy to walk through the architecture.
 ---
 
 ## 💼 Experience
